@@ -1,5 +1,7 @@
 ## The name of an affected Product : Genymotion Desktop
 
+## Researcher: Abdullah Khawaja
+
 ## Vendor HomePage Link: https://www.genymotion.com
 
 ## Software Link: https://dl.genymotion.com/releases/genymotion-3.3.2/genymotion-3.3.2.exe
