@@ -1,5 +1,7 @@
 ## The name of an affected Product : Genymotion Desktop
 
+## CVE ID: CVE-2022-48077
+
 ## Researcher: Abdullah Khawaja
 
 ## Vendor HomePage Link: https://www.genymotion.com
