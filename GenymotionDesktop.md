@@ -2,7 +2,7 @@
 
 ## CVE ID: CVE-2022-48077
 
-## Researcher: Abdullah Khawaja & Altamish Bhatti
+## Researcher: Abdullah Khawaja
 
 ## Vendor HomePage Link: https://www.genymotion.com
 
